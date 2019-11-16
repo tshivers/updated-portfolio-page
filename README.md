@@ -2,7 +2,7 @@
 
 GitHub Pages link to initial Portfolio Page: https://tshivers.github.io/tywunda-shivers-portfolio/
 
-GitHub Pages link to updated Portfolio Page: 
+GitHub Pages link to updated Portfolio Page: https://tshivers.github.io/updated-portfolio-page/
 
 
 ## Description
